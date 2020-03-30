@@ -1,4 +1,4 @@
-###**Ecommerce game**
+### **Ecommerce game**
 * Popup button -> play game
 * Open spinner -> spin(random)
 	* [10, 15, 20, 25, 30, 35, 40, 45, 50] -> point
