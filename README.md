@@ -1,9 +1,9 @@
 ### **Ecommerce game**
 
 <p align="center">
-  <img width="300" height="450" src="https://ecdn.teacherspayteachers.com/thumbitem/Spinner-to-10-Spinner-Ten-Spinner-0-9-Spinner-Template-10-Spinner-Template-0-9-4989843-1572630762/original-4989843-1.jpg">
-
+  <img width="200" height="300" src="https://ecdn.teacherspayteachers.com/thumbitem/Spinner-to-10-Spinner-Ten-Spinner-0-9-Spinner-Template-10-Spinner-Template-0-9-4989843-1572630762/original-4989843-1.jpg"/>
 </p>
+
 * Popup button -> play game
 * Open spinner -> spin(random)
 	* [10, 15, 20, 25, 30, 35, 40, 45, 50] -> point
