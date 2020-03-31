@@ -49,6 +49,8 @@
 	* BOX_1 + BOX_2 + BOX_3 = POINT
 	* store point(reward)
 
+![](blob:https://tenor.com/5e91c4be-ec16-45a8-95f5-ec2446fca770)
+
 
 ##### INIT Component
 * Tree
