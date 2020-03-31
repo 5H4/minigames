@@ -1,7 +1,7 @@
 ### **Ecommerce game**
 
 <p align="center">
-  <img width="200" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
+  <img width="300" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
 </p>
 
 #### **Package MiniGames - Spinner**
