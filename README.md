@@ -1,17 +1,17 @@
-### **Ecommerce game**
+## **Ecommerce game**
 
 <p align="center">
   <img width="300" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
 </p>
 
-#### **Use point**
+### **Use point**
 
 ##### Logic
 * On point use
 	* delete point(reward)
 * effect -> on target product (these products were no discounted)
 
-#### **Package MiniGames - Spinner**
+### **Package MiniGames - Spinner**
 
 ##### Constructor
 * Popup button -> play game
@@ -35,10 +35,14 @@
 		* Logic[ user.point = user.point + GetPoint(getNumber) ]
 		* Example: user.point = database(45) + reward(35) = 80 point.
 
+
+
+
 <p align="center">
   <img width="353" height="174" src="https://i.ibb.co/r4RwzRw/Screenshot-from-2020-03-31-16-27-18.png"/>
 </p>
-#### **Package MiniGames - Box**
+
+### **Package MiniGames - Box**
 
 ##### Constructor
 * On enter app -> play game
