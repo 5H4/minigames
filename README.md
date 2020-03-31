@@ -28,9 +28,8 @@
 
 
 
-
 <p align="center">
-  ![](https://s5.gifyu.com/images/box8a62ed2cf8579a60.gif)
+  <img src="https://s5.gifyu.com/images/box8a62ed2cf8579a60.gif"/>
 </p>
 
 ### **Package MiniGames - Box**
@@ -47,9 +46,6 @@
 		* { 100 / 0 } = 0 point.
 	* BOX_1 + BOX_2 + BOX_3 = POINT
 	* store point(reward)
-
-![](https://s5.gifyu.com/images/box8a62ed2cf8579a60.gif)
-
 
 ##### INIT Component
 * Tree
