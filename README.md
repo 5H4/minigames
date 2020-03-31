@@ -1,7 +1,7 @@
 ## **Ecommerce game**
 
 <p align="center">
-  <img width="300" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
+  ![](https://s5.gifyu.com/images/spinner432f3d5ee395e70c.gif)
 </p>
 
 ### **Package MiniGames - Spinner**
@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img width="353" height="174" src="https://i.ibb.co/r4RwzRw/Screenshot-from-2020-03-31-16-27-18.png"/>
+  ![](https://s5.gifyu.com/images/box8a62ed2cf8579a60.gif)
 </p>
 
 ### **Package MiniGames - Box**
