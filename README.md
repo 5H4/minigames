@@ -1,9 +1,8 @@
 ## **Ecommerce game**
 
 <p align="center">
-  ![](https://s5.gifyu.com/images/spinner432f3d5ee395e70c.gif)
+  <img src="https://s5.gifyu.com/images/spinner432f3d5ee395e70c.gif"/>
 </p>
-
 ### **Package MiniGames - Spinner**
 
 ##### Constructor
