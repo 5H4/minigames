@@ -4,13 +4,6 @@
   <img width="300" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
 </p>
 
-### **Use point**
-
-##### Logic
-* On point use
-	* delete point(reward)
-* effect -> on target product (these products were no discounted)
-
 ### **Package MiniGames - Spinner**
 
 ##### Constructor
@@ -19,7 +12,6 @@
 	* [15, 25, 35, 45] -> point
 	* [100p => 50%] -> discount chance #p is point.
 * store point(reward)
-* on 100 point -> unlock grab your coupon "JHE5541"
 
 ##### INIT Component
 * Tree
@@ -72,6 +64,17 @@
 		* Logic[ user.point = user.point + (box1 + box2 + box3)]
 		* Example: user.point = database(20) + (10, 0, 20) = 50 point
 
+
+
+
+
+### **Use point**
+
+##### Logic -- not yet
+* On point use
+* if user.point > 100 point -> unlock grab your coupon "JHE5541"
+	* delete point(reward) - 100
+* effect -> on target product (these products were no discounted)
 
 
 
