@@ -1,7 +1,7 @@
 ### **Ecommerce game**
 
 <p align="center">
-  <img width="200" height="300" src="https://ecdn.teacherspayteachers.com/thumbitem/Spinner-to-10-Spinner-Ten-Spinner-0-9-Spinner-Template-10-Spinner-Template-0-9-4989843-1572630762/original-4989843-1.jpg"/>
+  <img width="200" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
 </p>
 
 #### **Package MiniGames - Spinner**
@@ -24,6 +24,11 @@
 			* InitSpinner.class
 * Run 
 	* InitSpinner(context)
+	
+* Return
+	* Point (Integer)
+		* Logic[ user.point = user.point + GetPoint(getNumber) ]
+		* Example: user.point = database(45) + reward(35) = 80 point.
 
 
 
