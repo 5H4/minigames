@@ -3,6 +3,7 @@
 <p align="center">
   <img width="300" height="300" src="https://i.ibb.co/LZzwMZ1/spinner.png"/>
 </p>
+
 #### **Use point**
 
 ##### Logic
@@ -34,6 +35,9 @@
 		* Logic[ user.point = user.point + GetPoint(getNumber) ]
 		* Example: user.point = database(45) + reward(35) = 80 point.
 
+<p align="center">
+  <img width="353" height="174" src="https://i.ibb.co/r4RwzRw/Screenshot-from-2020-03-31-16-27-18.png"/>
+</p>
 #### **Package MiniGames - Box**
 
 ##### Constructor
