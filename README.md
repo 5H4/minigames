@@ -31,7 +31,7 @@
 
 
 <p align="center">
-  <img width="353" height="174" src="https://i.ibb.co/r4RwzRw/Screenshot-from-2020-03-31-16-27-18.png"/>
+  <img width="353" height="174" src="blob:https://tenor.com/5e91c4be-ec16-45a8-95f5-ec2446fca770"/>
 </p>
 
 ### **Package MiniGames - Box**
@@ -48,9 +48,6 @@
 		* { 100 / 0 } = 0 point.
 	* BOX_1 + BOX_2 + BOX_3 = POINT
 	* store point(reward)
-
-![](blob:https://tenor.com/5e91c4be-ec16-45a8-95f5-ec2446fca770)
-
 
 ##### INIT Component
 * Tree
