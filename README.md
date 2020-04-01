@@ -62,8 +62,30 @@
 		* Logic[ user.point = user.point + (box1 + box2 + box3)]
 		* Example: user.point = database(20) + (10, 0, 20) = 50 point
 
+<p align="center">
+  <img src="https://s5.gifyu.com/images/rollingproducts.gif"/>
+</p>
 
+### **Package MiniGames - RollingProducts**
 
+##### Constructor
+* Auto open [random]
+* Roll products -> get from array random product give[-50%, -75%, -90%]% p1,p2,p3
+	* Instant order.
+
+##### INIT Component
+* Tree
+	* Layout rolling_products.xml -> set custom layout.
+	* Package MiniGames
+		* RollingProducts
+			* InitRollingProducts.class
+* Run 
+	* InitRollingProducts(context)
+	
+* Return
+	* Product (insta order now)
+		* Logic[ random product from array -> last 10 opened product]
+		* Example: click and get.
 
 
 ### **Use point**
