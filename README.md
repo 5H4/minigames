@@ -63,7 +63,7 @@
 		* Example: user.point = database(20) + (10, 0, 20) = 50 point
 
 <p align="center">
-  <img src="https://s5.gifyu.com/images/rollingproducts.gif"/>
+  <img src="https://s5.gifyu.com/images/rollingproducts672bdebb08c76e5e.gif"/>
 </p>
 
 ### **Package MiniGames - RollingProducts**
